@@ -34,7 +34,7 @@ dependencies:
   get: ^4.1.4
 
   # 日期
-  intl: ^0.17.0
+  intl: ^0.18.0
 
   # 屏幕适配
   flutter_screenutil: ^5.0.0+2
